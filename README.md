@@ -11,7 +11,7 @@ The food aggregator company has stored the data of the different orders made by 
 Data Description<br>
 The data includes various information related to a food order. A detailed data dictionary is provided below.
 
-Data Dictionary
+Data Dictionary<br>
 order_id: Unique ID of the order
 customer_id: ID of the customer who ordered the food
 restaurant_name: Name of the restaurant
